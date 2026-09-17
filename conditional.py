@@ -8,3 +8,5 @@ else:
     category = "adult"
 
 print(category)
+
+
